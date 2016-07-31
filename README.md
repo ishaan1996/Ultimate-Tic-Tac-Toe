@@ -9,3 +9,7 @@ You can use the following options:
 	1 => Random player vs. AI bot
 	2 => Human vs. AI bot
 	3 => Human vs. Human
+
+Contributers:
+	1. ishaan1996
+	2. AMaini503
